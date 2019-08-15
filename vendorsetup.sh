@@ -1,0 +1,2 @@
+add_lunch_combo lineage_hi9pro-eng
+add_lunch_combo lineage_hi9pro-userdebug
